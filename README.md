@@ -1,6 +1,8 @@
-Запуск: 1.npm install
-2.npm run dev
-перейти по ссылке  Local: http://localhost:5173/
+# Запуск:
+-   **1.npm install** — установка пакетов
+-   **2.npm run dev** — запуск проекта
+-   **перейти по ссылке  Local: http://localhost:5173/** — Открой эту ссылку в браузере
+
 
 
 # Auth API (Mock)
